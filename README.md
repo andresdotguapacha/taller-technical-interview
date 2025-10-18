@@ -1,4 +1,4 @@
-# Taller Technical Interview - Full Stack Employee Management
+# Taller Technical Interview - Full Stack Employee Management [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/andresdotguapacha/taller-technical-interview)
 
 A full-stack application built with .NET Core 8 Web API and React frontend for employee management operations.
 
